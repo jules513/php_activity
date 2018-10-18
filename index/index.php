@@ -12,7 +12,7 @@
 	<div id="big_wrapper">
 
 
-	<header id="header">V-CDEP is a continuous delivery tool</header>
+	<header id="header">V-CDEP is a continuous delivery tool-- awesome!</header>
 	<!-- Displaying the navigation bar -->
 	<nav id="navigation">
 		<ul>Home</ul>
